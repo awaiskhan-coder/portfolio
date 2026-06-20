@@ -25,5 +25,3 @@ This project represents my ability to design and develop production-ready front-
 ## 🌐 Live Demo
 https://portfolio-drab-beta-75vv3338l4.vercel.app/
 
-## 💻 GitHub Repo
-https://lnkd.in/d_X6V74W
